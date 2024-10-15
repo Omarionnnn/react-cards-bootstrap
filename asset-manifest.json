@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-cards-bootstrap/static/css/main.7e88fd6a.css",
+    "main.js": "/react-cards-bootstrap/static/js/main.89299abb.js",
+    "static/js/453.331ffa9c.chunk.js": "/react-cards-bootstrap/static/js/453.331ffa9c.chunk.js",
+    "static/media/image2.jpg": "/react-cards-bootstrap/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
+    "static/media/image3.jpg": "/react-cards-bootstrap/static/media/image3.de2e4145d934e647f47d.jpg",
+    "index.html": "/react-cards-bootstrap/index.html",
+    "main.7e88fd6a.css.map": "/react-cards-bootstrap/static/css/main.7e88fd6a.css.map",
+    "main.89299abb.js.map": "/react-cards-bootstrap/static/js/main.89299abb.js.map",
+    "453.331ffa9c.chunk.js.map": "/react-cards-bootstrap/static/js/453.331ffa9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e88fd6a.css",
+    "static/js/main.89299abb.js"
+  ]
+}
